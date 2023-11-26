@@ -52,3 +52,7 @@ exit_msgs = [
     f"👋 {username} left the chat. Wishing them all the best! For updates and more, follow [Sasta Coder](https://t.me/sasta_coder)!",
     f"😢 {username} has departed. For any inquiries or help, feel free to contact [Sasta Coder](https://t.me/sasta_coder)!",
 ]
+
+def get_exit_message(username):
+    return random.choice(exit_msgs).format(username=username)
+    
