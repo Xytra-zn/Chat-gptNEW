@@ -1,5 +1,6 @@
 import random
-from XYTRA.welcome import welcome_msgs, get_welcome_message
+from XYTRA.welcome import welcome_msgs
+
 
 @bot.on_message(filters.group & filters.new_chat_members)
 async def welcome_new_members(client, message):
