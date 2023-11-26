@@ -1,3 +1,5 @@
+import random
+
 # Define the list of exit messages
 exit_msgs = [
     "😢 {username} has left the group. We'll miss you!",
