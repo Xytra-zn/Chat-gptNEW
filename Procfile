@@ -1,2 +1,2 @@
-worker: python3 xytra/main.py
+worker: python3 XYTRA/main.py
 
