@@ -1,6 +1,6 @@
 import random
-from xytra.messages import welcome_msgs
-from xytra.exit import exit_msgs
+from XYTRA.messages import welcome_msgs
+from XYTRA.exit import exit_msgs
 
 @bot.on_message(filters.group & filters.new_chat_members)
 async def welcome_new_members(client, message):
