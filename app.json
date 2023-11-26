@@ -1,0 +1,17 @@
+{
+    "name": "SASTA CODER",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Fill Your Bot Token Here",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "Fill Your Bot Username Here",
+            "required": true
+        },
+        "ADMINS": {
+            "description": "Fill Your Admin User IDs (comma-separated) Here",
+            "required": true
+        }
+    }
+}
