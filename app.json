@@ -1,10 +1,24 @@
 {
-    "name": "SASTA CODER",
-    "env": {
-        "BOT_TOKEN": {
-            "description": "Fill Your Bot Token Here",
-            "required": true
-        },
-      
+  "name": "SASTA CODER BOT",
+  "description": "BOT MADE BY SASTA CODER WITH CHAT GPT",
+  "repository": "https://github.com/xytra-zn/gp",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "6526084223:AAHRX5cIwWCyMN1vqmseXQXl1kNFFulevbs",
+      "required": true
     }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
+    }
+  ],
+  "scripts": {
+    "start": "python3 XYTRA/start.py"
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1
+    }
+  }
 }
