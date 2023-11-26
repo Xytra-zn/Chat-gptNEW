@@ -1,3 +1,5 @@
+import random
+
 # Define the list of welcome messages
 welcome_msgs = [
     "👋 Hello {username}! Welcome to our community! 🚀",
