@@ -2,7 +2,7 @@
 
 import os
 from telegram.ext import Updater, MessageHandler, Filters, CommandHandler, CallbackContext
-from modules import start, help_module, message_module
+from XYTRA import start, help_module, message_module
 from config import TOKEN
 
 def main() -> None:
