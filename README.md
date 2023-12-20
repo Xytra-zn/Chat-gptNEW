@@ -43,6 +43,10 @@ This Telegram bot leverages the capabilities of ChatGPT to provide engaging and 
     python main.py
     ```
 
+    <p align="center">
+      <img src="https://te.legra.ph/file/17e087ff2366de0e3ae3e.jpg" width="125"/>
+    </p>
+
 ### Replit
 
 1. Fork this repository.
@@ -54,6 +58,10 @@ This Telegram bot leverages the capabilities of ChatGPT to provide engaging and 
 4. Set your Telegram token and ChatGPT API URL in the `config.py` file.
 
 5. Click "Run" to start the bot.
+
+    <p align="center">
+      <img src="https://te.legra.ph/file/5924c186cede217705d1c.jpg" width="125"/>
+    </p>
 
 ### Render
 
@@ -67,6 +75,10 @@ This Telegram bot leverages the capabilities of ChatGPT to provide engaging and 
 
 5. Deploy your service on Render.
 
+    <p align="center">
+      <img src="https://te.legra.ph/file/87546a1070200ccb65016.jpg" width="125"/>
+    </p>
+
 ### Koyeb
 
 1. Fork this repository.
@@ -77,8 +89,10 @@ This Telegram bot leverages the capabilities of ChatGPT to provide engaging and 
 
 4. Deploy your app on Koyeb.
 
-## Contributors
+    <p align="center">
+      <img src="https://te.legra.ph/file/b4c238ce0581664a11ecf.png" width="125"/>
+    </p>
 
-- [Your Name](https://github.com/yourusername)
+## Contributors
 
 Feel free to contribute and make the bot even more amazing!
