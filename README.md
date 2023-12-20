@@ -43,7 +43,8 @@ This Telegram bot leverages the capabilities of ChatGPT to provide engaging and 
     python main.py
     ```
 
-    <p align="center">
+    <p align="center"> 
+      <a href="https://dashboard.heroku.com/new?template=https://github.com/Xytra-zn/Chat-gptNEW">
       <img src="https://te.legra.ph/file/17e087ff2366de0e3ae3e.jpg" width="125"/>
     </p>
 
